@@ -4,7 +4,7 @@ compatibility_date = "2026-02-10"
 workers_dev = true
 
 # Optional local/runtime override:
-# BACKEND_URL = "http://127.0.0.1:10000"
+# BACKEND_URL = "http://102.219.85.116:4444"
 
 [vars]
 TRANSPORT = "xhttp"
